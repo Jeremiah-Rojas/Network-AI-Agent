@@ -30,7 +30,12 @@ Navigating over to the router, we see the router name, shown by the command prom
 </br>
 </br>I had the agent implement telnet though from a cybersecurity perspective, SSH is the preferred remote access protocol since telnet has no encryption; ; the user prompt is shown in the underlined text:
 </br><img width="1088" height="646" alt="image" src="https://github.com/user-attachments/assets/13ed7c90-1072-4d80-96a2-89569f8a6c1a" />
-*Note: This agent will ask question if it does not have all required information to implement the changes request; in this case, the password which I entered as “msfadmin”.*
+
+__Note: This agent will ask question if it does not have all required information to implement the changes request; in this case, the password which I entered as “msfadmin”.__
+
+</br>This is the result of the telnet configuration being used:
+</br><img width="1085" height="704" alt="image" src="https://github.com/user-attachments/assets/456237b6-406e-4cd3-8ac4-9ad450fa9af2" />
+
 
 
 ## Problems Difficulties
