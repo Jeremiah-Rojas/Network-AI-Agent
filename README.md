@@ -21,7 +21,6 @@ This topology is very similar to a previous one I created some time ago, only th
 ## Configurations Performed by AI Agent
 
 ### Name Change on Router
-
 This is the agent changing the name of the router to “CISCO-ROUTER” using the agent; the user prompt is shown in the underlined text (pardon my bad spelling):
 </br><img width="1085" height="848" alt="image" src="https://github.com/user-attachments/assets/c219a46b-01fc-4d81-8b9d-889b75ef84b8" />
 
@@ -30,7 +29,6 @@ Navigating over to the router, we see the router name, shown by the command prom
 
 
 ### Telent on Router
-
 </br>I had the agent implement telnet though from a cybersecurity perspective, SSH is the preferred remote access protocol since telnet has no encryption; ; the user prompt is shown in the underlined text:
 </br><img width="1088" height="646" alt="image" src="https://github.com/user-attachments/assets/13ed7c90-1072-4d80-96a2-89569f8a6c1a" />
 
@@ -40,7 +38,6 @@ __Note: This agent will ask question if it does not have all required informatio
 </br><img width="1085" height="704" alt="image" src="https://github.com/user-attachments/assets/456237b6-406e-4cd3-8ac4-9ad450fa9af2" />
 
 ### ACL Rules on Switch
-
 </br>Creating an ACL to stop VLAN 1 from communicating t with VLAN 99 (management VLAN); the user prompt is shown in the underlined text:
 </br><img width="1069" height="800" alt="image" src="https://github.com/user-attachments/assets/406c0598-1ccc-4bbf-8a43-9033487bf1ec" />
 
@@ -50,7 +47,6 @@ This is the results of the ACL configuration:
 </br><img width="1086" height="530" alt="image" src="https://github.com/user-attachments/assets/6030b193-3a57-4a46-a0ad-909ead911381" />
 
 ### VLAN and interface Assignment on Switch
-
 Creating a VLAN and automatically assigning interfaces to it; the user prompt is shown in the underlined text:
 </br><img width="1085" height="819" alt="image" src="https://github.com/user-attachments/assets/63acda43-fef1-4e58-9705-76871a34786d" />
 
