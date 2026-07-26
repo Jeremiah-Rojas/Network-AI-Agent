@@ -1,6 +1,6 @@
 # Network Topology
 
-<img width="1104" height="561" alt="image" src="https://github.com/user-attachments/assets/18af559a-0275-4646-b24d-0b60d0c05997" />
+<img width="1024.2" height="526.8" alt="image" src="https://github.com/user-attachments/assets/52feab92-31fc-4b37-8bf0-5420b536eaf2" />
 
 This topology is very similar to a previous one I created some time ago, only this time, I want to emphasize the AI agent in deployment. 
 
