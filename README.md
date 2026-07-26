@@ -37,6 +37,15 @@ __Note: This agent will ask question if it does not have all required informatio
 </br><img width="1085" height="704" alt="image" src="https://github.com/user-attachments/assets/456237b6-406e-4cd3-8ac4-9ad450fa9af2" />
 
 
+</br>Creating an ACL to stop VLAN 1 from communicating t with VLAN 99 (management VLAN); the user prompt is shown in the underlined text:
+</br><img width="1069" height="800" alt="image" src="https://github.com/user-attachments/assets/406c0598-1ccc-4bbf-8a43-9033487bf1ec" />
+
+__Note: The agent did not have all the information to properly implement the ACL rule so it asked me a follow up question which I answered as shown in the second line of undermined text.__
+
+This is the results of the ACL configuration:
+</br><img width="1086" height="530" alt="image" src="https://github.com/user-attachments/assets/6030b193-3a57-4a46-a0ad-909ead911381" />
+
+
 
 ## Problems Difficulties
 
